@@ -37,8 +37,8 @@
                 },
                 {
                   "type": "file",
-                  "name": "CS01-COMPUTER_SYSTEM-REVISION_MINDMAPS.md",
-                  "path": "AI-NOTES/COMPUTER-SCIENCE/CS01-COMPUTER_SYSTEM/CS01-COMPUTER_SYSTEM-REVISION_MINDMAPS.md",
+                  "name": "CS01-COMPUTER_SYSTEM-CNOTES.md",
+                  "path": "AI-NOTES/COMPUTER-SCIENCE/CS01-COMPUTER_SYSTEM/CS01-COMPUTER_SYSTEM-CNOTES.md",
                   "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
                   "mime": "text/markdown"
                 }
@@ -71,8 +71,8 @@
                 },
                 {
                   "type": "file",
-                  "name": "CS02-ENCODING_SCHEMES_AND_NUMBER_SYSTEM-REVISION_MINDMAPS.md",
-                  "path": "AI-NOTES/COMPUTER-SCIENCE/CS02-ENCODING_SCHEMES_AND_NUMBER_SYSTEM/CS02-ENCODING_SCHEMES_AND_NUMBER_SYSTEM-REVISION_MINDMAPS.md",
+                  "name": "CS02-ENCODING_SCHEMES_AND_NUMBER_SYSTEM-CNOTES.md",
+                  "path": "AI-NOTES/COMPUTER-SCIENCE/CS02-ENCODING_SCHEMES_AND_NUMBER_SYSTEM/CS02-ENCODING_SCHEMES_AND_NUMBER_SYSTEM-CNOTES.md",
                   "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
                   "mime": "text/markdown"
                 }
@@ -105,8 +105,8 @@
                 },
                 {
                   "type": "file",
-                  "name": "CS03-EMERGING_TRENDS-REVISION_MINDMAPS.md",
-                  "path": "AI-NOTES/COMPUTER-SCIENCE/CS03-EMERGING_TRENDS/CS03-EMERGING_TRENDS-REVISION_MINDMAPS.md",
+                  "name": "CS03-EMERGING_TRENDS-CNOTES.md",
+                  "path": "AI-NOTES/COMPUTER-SCIENCE/CS03-EMERGING_TRENDS/CS03-EMERGING_TRENDS-CNOTES.md",
                   "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
                   "mime": "text/markdown"
                 }
@@ -139,8 +139,8 @@
                 },
                 {
                   "type": "file",
-                  "name": "CS04-PROBLEM_SOLVING-REVISION_MINDMAPS.md",
-                  "path": "AI-NOTES/COMPUTER-SCIENCE/CS04-PROBLEM_SOLVING/CS04-PROBLEM_SOLVING-REVISION_MINDMAPS.md",
+                  "name": "CS04-PROBLEM_SOLVING-CNOTES.md",
+                  "path": "AI-NOTES/COMPUTER-SCIENCE/CS04-PROBLEM_SOLVING/CS04-PROBLEM_SOLVING-CNOTES.md",
                   "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
                   "mime": "text/markdown"
                 }
@@ -173,8 +173,8 @@
                 },
                 {
                   "type": "file",
-                  "name": "CS05-GETTING_STARTED_WITH_PYTHON-REVISION_MINDMAPS.md",
-                  "path": "AI-NOTES/COMPUTER-SCIENCE/CS05-GETTING_STARTED_WITH_PYTHON/CS05-GETTING_STARTED_WITH_PYTHON-REVISION_MINDMAPS.md",
+                  "name": "CS05-GETTING_STARTED_WITH_PYTHON-CNOTES.md",
+                  "path": "AI-NOTES/COMPUTER-SCIENCE/CS05-GETTING_STARTED_WITH_PYTHON/CS05-GETTING_STARTED_WITH_PYTHON-CNOTES.md",
                   "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
                   "mime": "text/markdown"
                 }
@@ -207,8 +207,8 @@
                 },
                 {
                   "type": "file",
-                  "name": "CS06-FLOW_OF_CONTROL-REVISION_MINDMAPS.md",
-                  "path": "AI-NOTES/COMPUTER-SCIENCE/CS06-FLOW_OF_CONTROL/CS06-FLOW_OF_CONTROL-REVISION_MINDMAPS.md",
+                  "name": "CS06-FLOW_OF_CONTROL-CNOTES.md",
+                  "path": "AI-NOTES/COMPUTER-SCIENCE/CS06-FLOW_OF_CONTROL/CS06-FLOW_OF_CONTROL-CNOTES.md",
                   "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
                   "mime": "text/markdown"
                 }
@@ -241,8 +241,8 @@
                 },
                 {
                   "type": "file",
-                  "name": "CS07-FUNCTIONS-REVISION_MINDMAPS.md",
-                  "path": "AI-NOTES/COMPUTER-SCIENCE/CS07-FUNCTIONS/CS07-FUNCTIONS-REVISION_MINDMAPS.md",
+                  "name": "CS07-FUNCTIONS-CNOTES.md",
+                  "path": "AI-NOTES/COMPUTER-SCIENCE/CS07-FUNCTIONS/CS07-FUNCTIONS-CNOTES.md",
                   "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
                   "mime": "text/markdown"
                 }
@@ -275,8 +275,8 @@
                 },
                 {
                   "type": "file",
-                  "name": "CS08-STRINGS-REVISION_MINDMAPS.md",
-                  "path": "AI-NOTES/COMPUTER-SCIENCE/CS08-STRINGS/CS08-STRINGS-REVISION_MINDMAPS.md",
+                  "name": "CS08-STRINGS-CNOTES.md",
+                  "path": "AI-NOTES/COMPUTER-SCIENCE/CS08-STRINGS/CS08-STRINGS-CNOTES.md",
                   "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
                   "mime": "text/markdown"
                 }
@@ -309,8 +309,8 @@
                 },
                 {
                   "type": "file",
-                  "name": "CS09-LISTS-REVISION_MINDMAPS.md",
-                  "path": "AI-NOTES/COMPUTER-SCIENCE/CS09-LISTS/CS09-LISTS-REVISION_MINDMAPS.md",
+                  "name": "CS09-LISTS-CNOTES.md",
+                  "path": "AI-NOTES/COMPUTER-SCIENCE/CS09-LISTS/CS09-LISTS-CNOTES.md",
                   "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
                   "mime": "text/markdown"
                 }
@@ -343,8 +343,8 @@
                 },
                 {
                   "type": "file",
-                  "name": "CS10-TUPLES_AND_DICTIONARIES-REVISION_MINDMAPS.md",
-                  "path": "AI-NOTES/COMPUTER-SCIENCE/CS10-TUPLES_AND_DICTIONARIES/CS10-TUPLES_AND_DICTIONARIES-REVISION_MINDMAPS.md",
+                  "name": "CS10-TUPLES_AND_DICTIONARIES-CNOTES.md",
+                  "path": "AI-NOTES/COMPUTER-SCIENCE/CS10-TUPLES_AND_DICTIONARIES/CS10-TUPLES_AND_DICTIONARIES-CNOTES.md",
                   "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
                   "mime": "text/markdown"
                 }
@@ -377,8 +377,8 @@
                 },
                 {
                   "type": "file",
-                  "name": "CS11-SOCIETAL_IMPACTS-REVISION_MINDMAPS.md",
-                  "path": "AI-NOTES/COMPUTER-SCIENCE/CS11-SOCIETAL_IMPACTS/CS11-SOCIETAL_IMPACTS-REVISION_MINDMAPS.md",
+                  "name": "CS11-SOCIETAL_IMPACTS-CNOTES.md",
+                  "path": "AI-NOTES/COMPUTER-SCIENCE/CS11-SOCIETAL_IMPACTS/CS11-SOCIETAL_IMPACTS-CNOTES.md",
                   "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
                   "mime": "text/markdown"
                 }
@@ -417,8 +417,8 @@
                 },
                 {
                   "type": "file",
-                  "name": "MATHEMATICS01-SETS-REVISION_MINDMAPS.md",
-                  "path": "AI-NOTES/MATHEMATICS/MATHEMATICS01-SETS/MATHEMATICS01-SETS-REVISION_MINDMAPS.md",
+                  "name": "MATHEMATICS01-SETS-CNOTES.md",
+                  "path": "AI-NOTES/MATHEMATICS/MATHEMATICS01-SETS/MATHEMATICS01-SETS-CNOTES.md",
                   "sha": "389bb578ab4a6e85313175c705ab51055d6eaebd",
                   "mime": "text/markdown"
                 }
@@ -451,8 +451,8 @@
                 },
                 {
                   "type": "file",
-                  "name": "MATHEMATICS02-RELATIONS_AND_FUNCTIONS-REVISION_MINDMAPS.md",
-                  "path": "AI-NOTES/MATHEMATICS/MATHEMATICS02-RELATIONS_AND_FUNCTIONS/MATHEMATICS02-RELATIONS_AND_FUNCTIONS-REVISION_MINDMAPS.md",
+                  "name": "MATHEMATICS02-RELATIONS_AND_FUNCTIONS-CNOTES.md",
+                  "path": "AI-NOTES/MATHEMATICS/MATHEMATICS02-RELATIONS_AND_FUNCTIONS/MATHEMATICS02-RELATIONS_AND_FUNCTIONS-CNOTES.md",
                   "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
                   "mime": "text/markdown"
                 }
@@ -485,8 +485,8 @@
                 },
                 {
                   "type": "file",
-                  "name": "MATHEMATICS03-TRIGONOMETRIC_FUNCTIONS-REVISION_MINDMAPS.md",
-                  "path": "AI-NOTES/MATHEMATICS/MATHEMATICS03-TRIGONOMETRIC_FUNCTIONS/MATHEMATICS03-TRIGONOMETRIC_FUNCTIONS-REVISION_MINDMAPS.md",
+                  "name": "MATHEMATICS03-TRIGONOMETRIC_FUNCTIONS-CNOTES.md",
+                  "path": "AI-NOTES/MATHEMATICS/MATHEMATICS03-TRIGONOMETRIC_FUNCTIONS/MATHEMATICS03-TRIGONOMETRIC_FUNCTIONS-CNOTES.md",
                   "sha": "77ae03f9692a9a942d0d7f7b3f15dc06bd5764dd",
                   "mime": "text/markdown"
                 }
@@ -519,8 +519,8 @@
                 },
                 {
                   "type": "file",
-                  "name": "MATHEMATICS04-COMPLEX_NUMBERS_AND_QUADRATIC_EQUATIONS-REVISION_MINDMAPS.md",
-                  "path": "AI-NOTES/MATHEMATICS/MATHEMATICS04-COMPLEX_NUMBERS_AND_QUADRATIC_EQUATIONS/MATHEMATICS04-COMPLEX_NUMBERS_AND_QUADRATIC_EQUATIONS-REVISION_MINDMAPS.md",
+                  "name": "MATHEMATICS04-COMPLEX_NUMBERS_AND_QUADRATIC_EQUATIONS-CNOTES.md",
+                  "path": "AI-NOTES/MATHEMATICS/MATHEMATICS04-COMPLEX_NUMBERS_AND_QUADRATIC_EQUATIONS/MATHEMATICS04-COMPLEX_NUMBERS_AND_QUADRATIC_EQUATIONS-CNOTES.md",
                   "sha": "0413fa6cc71125c41a34d3ee481f15c36e940102",
                   "mime": "text/markdown"
                 }
@@ -553,8 +553,8 @@
                 },
                 {
                   "type": "file",
-                  "name": "MATHEMATICS05-LINEAR_INEQUALITIES-REVISION_MINDMAPS.md",
-                  "path": "AI-NOTES/MATHEMATICS/MATHEMATICS05-LINEAR_INEQUALITIES/MATHEMATICS05-LINEAR_INEQUALITIES-REVISION_MINDMAPS.md",
+                  "name": "MATHEMATICS05-LINEAR_INEQUALITIES-CNOTES.md",
+                  "path": "AI-NOTES/MATHEMATICS/MATHEMATICS05-LINEAR_INEQUALITIES/MATHEMATICS05-LINEAR_INEQUALITIES-CNOTES.md",
                   "sha": "30d95364b6f550ed570a74132a305248913f2e85",
                   "mime": "text/markdown"
                 }
@@ -587,8 +587,8 @@
                 },
                 {
                   "type": "file",
-                  "name": "MATHEMATICS06-PERMUTATIONS_AND_COMBINATIONS-REVISION_MINDMAPS.md",
-                  "path": "AI-NOTES/MATHEMATICS/MATHEMATICS06-PERMUTATIONS_AND_COMBINATIONS/MATHEMATICS06-PERMUTATIONS_AND_COMBINATIONS-REVISION_MINDMAPS.md",
+                  "name": "MATHEMATICS06-PERMUTATIONS_AND_COMBINATIONS-CNOTES.md",
+                  "path": "AI-NOTES/MATHEMATICS/MATHEMATICS06-PERMUTATIONS_AND_COMBINATIONS/MATHEMATICS06-PERMUTATIONS_AND_COMBINATIONS-CNOTES.md",
                   "sha": "da9e3545bc690e2f10f8b8c7ee95c74339b9557d",
                   "mime": "text/markdown"
                 }
@@ -621,8 +621,8 @@
                 },
                 {
                   "type": "file",
-                  "name": "MATHEMATICS07-BINOMIAL_THEOREM-REVISION_MINDMAPS.md",
-                  "path": "AI-NOTES/MATHEMATICS/MATHEMATICS07-BINOMIAL_THEOREM/MATHEMATICS07-BINOMIAL_THEOREM-REVISION_MINDMAPS.md",
+                  "name": "MATHEMATICS07-BINOMIAL_THEOREM-CNOTES.md",
+                  "path": "AI-NOTES/MATHEMATICS/MATHEMATICS07-BINOMIAL_THEOREM/MATHEMATICS07-BINOMIAL_THEOREM-CNOTES.md",
                   "sha": "8973e05b10d70dac141c5fcbc47d9f7091291b82",
                   "mime": "text/markdown"
                 }
@@ -655,8 +655,8 @@
                 },
                 {
                   "type": "file",
-                  "name": "MATHEMATICS08-SEQUENCES_AND_SERIES-REVISION_MINDMAPS.md",
-                  "path": "AI-NOTES/MATHEMATICS/MATHEMATICS08-SEQUENCES_AND_SERIES/MATHEMATICS08-SEQUENCES_AND_SERIES-REVISION_MINDMAPS.md",
+                  "name": "MATHEMATICS08-SEQUENCES_AND_SERIES-CNOTES.md",
+                  "path": "AI-NOTES/MATHEMATICS/MATHEMATICS08-SEQUENCES_AND_SERIES/MATHEMATICS08-SEQUENCES_AND_SERIES-CNOTES.md",
                   "sha": "08417ae877bfcb4048e942449dd9f0b946904475",
                   "mime": "text/markdown"
                 }
@@ -689,8 +689,8 @@
                 },
                 {
                   "type": "file",
-                  "name": "MATHEMATICS09-STRAIGHT_LINES-REVISION_MINDMAPS.md",
-                  "path": "AI-NOTES/MATHEMATICS/MATHEMATICS09-STRAIGHT_LINES/MATHEMATICS09-STRAIGHT_LINES-REVISION_MINDMAPS.md",
+                  "name": "MATHEMATICS09-STRAIGHT_LINES-CNOTES.md",
+                  "path": "AI-NOTES/MATHEMATICS/MATHEMATICS09-STRAIGHT_LINES/MATHEMATICS09-STRAIGHT_LINES-CNOTES.md",
                   "sha": "befd7922234460001edb07cd91e75978ba499162",
                   "mime": "text/markdown"
                 }
@@ -723,8 +723,8 @@
                 },
                 {
                   "type": "file",
-                  "name": "MATHEMATICS10-CONIC_SECTIONS-REVISION_MINDMAPS.md",
-                  "path": "AI-NOTES/MATHEMATICS/MATHEMATICS10-CONIC_SECTIONS/MATHEMATICS10-CONIC_SECTIONS-REVISION_MINDMAPS.md",
+                  "name": "MATHEMATICS10-CONIC_SECTIONS-CNOTES.md",
+                  "path": "AI-NOTES/MATHEMATICS/MATHEMATICS10-CONIC_SECTIONS/MATHEMATICS10-CONIC_SECTIONS-CNOTES.md",
                   "sha": "d5e2086abcc20352fbf8f1c863637c058269b688",
                   "mime": "text/markdown"
                 }
@@ -757,8 +757,8 @@
                 },
                 {
                   "type": "file",
-                  "name": "MATHEMATICS11-INTRODUCTION_TO_3D_GEOMETRY-REVISION_MINDMAPS.md",
-                  "path": "AI-NOTES/MATHEMATICS/MATHEMATICS11-INTRODUCTION_TO_3D_GEOMETRY/MATHEMATICS11-INTRODUCTION_TO_3D_GEOMETRY-REVISION_MINDMAPS.md",
+                  "name": "MATHEMATICS11-INTRODUCTION_TO_3D_GEOMETRY-CNOTES.md",
+                  "path": "AI-NOTES/MATHEMATICS/MATHEMATICS11-INTRODUCTION_TO_3D_GEOMETRY/MATHEMATICS11-INTRODUCTION_TO_3D_GEOMETRY-CNOTES.md",
                   "sha": "1ad5b263fe7f8d170c3d8801da33bb2c9793188d",
                   "mime": "text/markdown"
                 }
@@ -791,8 +791,8 @@
                 },
                 {
                   "type": "file",
-                  "name": "MATHEMATICS12-LIMITS_AND_DERIVATIVES-REVISION_MINDMAPS.md",
-                  "path": "AI-NOTES/MATHEMATICS/MATHEMATICS12-LIMITS_AND_DERIVATIVES/MATHEMATICS12-LIMITS_AND_DERIVATIVES-REVISION_MINDMAPS.md",
+                  "name": "MATHEMATICS12-LIMITS_AND_DERIVATIVES-CNOTES.md",
+                  "path": "AI-NOTES/MATHEMATICS/MATHEMATICS12-LIMITS_AND_DERIVATIVES/MATHEMATICS12-LIMITS_AND_DERIVATIVES-CNOTES.md",
                   "sha": "59674ffd7c7b08ce68251fda558b62185a4e3d1f",
                   "mime": "text/markdown"
                 }
@@ -825,8 +825,8 @@
                 },
                 {
                   "type": "file",
-                  "name": "MATHEMATICS13-STATISTICS-REVISION_MINDMAPS.md",
-                  "path": "AI-NOTES/MATHEMATICS/MATHEMATICS13-STATISTICS/MATHEMATICS13-STATISTICS-REVISION_MINDMAPS.md",
+                  "name": "MATHEMATICS13-STATISTICS-CNOTES.md",
+                  "path": "AI-NOTES/MATHEMATICS/MATHEMATICS13-STATISTICS/MATHEMATICS13-STATISTICS-CNOTES.md",
                   "sha": "e96bbc270086f9a1ce90a294df53e1b1d5388df9",
                   "mime": "text/markdown"
                 }
@@ -859,8 +859,8 @@
                 },
                 {
                   "type": "file",
-                  "name": "MATHEMATICS14-PROBABILITY-REVISION_MINDMAPS.md",
-                  "path": "AI-NOTES/MATHEMATICS/MATHEMATICS14-PROBABILITY/MATHEMATICS14-PROBABILITY-REVISION_MINDMAPS.md",
+                  "name": "MATHEMATICS14-PROBABILITY-CNOTES.md",
+                  "path": "AI-NOTES/MATHEMATICS/MATHEMATICS14-PROBABILITY/MATHEMATICS14-PROBABILITY-CNOTES.md",
                   "sha": "64c7919a6a5b08e621ca49581b8a287a345ef552",
                   "mime": "text/markdown"
                 }
@@ -886,8 +886,8 @@
                 },
                 {
                   "type": "file",
-                  "name": "MATHEMATICSEX-MATHEMATICAL_INDUCTION-REVISION_MINDMAPS.md",
-                  "path": "AI-NOTES/MATHEMATICS/MATHEMATICSEX-MATHEMATICAL_INDUCTION/MATHEMATICSEX-MATHEMATICAL_INDUCTION-REVISION_MINDMAPS.md",
+                  "name": "MATHEMATICSEX-MATHEMATICAL_INDUCTION-CNOTES.md",
+                  "path": "AI-NOTES/MATHEMATICS/MATHEMATICSEX-MATHEMATICAL_INDUCTION/MATHEMATICSEX-MATHEMATICAL_INDUCTION-CNOTES.md",
                   "sha": "d7e102dec712958454debaa9a1e484bd4561f3ed",
                   "mime": "text/markdown"
                 }
