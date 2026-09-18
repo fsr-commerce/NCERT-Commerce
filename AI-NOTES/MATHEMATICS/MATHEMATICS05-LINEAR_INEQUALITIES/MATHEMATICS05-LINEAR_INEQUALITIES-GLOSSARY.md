@@ -1,5 +1,5 @@
 
-# Mathematics | Chapter 05 | Linear Inequalities Glossary | GLOSSARY
+# Mathematics | Chapter 05 | LINEAR INEQUALITIES | GLOSSARY
 
 > Standalone formula/term sheet for last-minute revision. Pairs with the companion NOTES file, which has the full derivations and worked examples.
 

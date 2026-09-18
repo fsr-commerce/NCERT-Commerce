@@ -1,5 +1,5 @@
 
-# Mathematics | Chapter 02 | Relations AND Functions Glossary | GLOSSARY
+# Mathematics | Chapter 02 | RELATIONS and FUNCTIONS | GLOSSARY
 
 ## Cartesian Products
 
