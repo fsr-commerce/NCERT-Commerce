@@ -1,1 +1,1 @@
-# Mathematics | Chapter 02 | RELATIONS and FUNCTIONS | CNOTES
+# Mathematics | Chapter 02 | Relations and Functions | CNOTES
