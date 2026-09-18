@@ -16,6 +16,13 @@
               "children": [
                 {
                   "type": "file",
+                  "name": "CS01-COMPUTER_SYSTEM-CNOTES.md",
+                  "path": "AI-NOTES/COMPUTER-SCIENCE/CS01-COMPUTER_SYSTEM/CS01-COMPUTER_SYSTEM-CNOTES.md",
+                  "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+                  "mime": "text/markdown"
+                },
+                {
+                  "type": "file",
                   "name": "CS01-COMPUTER_SYSTEM-GLOSSARY.md",
                   "path": "AI-NOTES/COMPUTER-SCIENCE/CS01-COMPUTER_SYSTEM/CS01-COMPUTER_SYSTEM-GLOSSARY.md",
                   "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
@@ -27,20 +34,6 @@
                   "path": "AI-NOTES/COMPUTER-SCIENCE/CS01-COMPUTER_SYSTEM/CS01-COMPUTER_SYSTEM-NOTES.md",
                   "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
                   "mime": "text/markdown"
-                },
-                {
-                  "type": "file",
-                  "name": "CS01-COMPUTER_SYSTEM-PQs.md",
-                  "path": "AI-NOTES/COMPUTER-SCIENCE/CS01-COMPUTER_SYSTEM/CS01-COMPUTER_SYSTEM-PQs.md",
-                  "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
-                  "mime": "text/markdown"
-                },
-                {
-                  "type": "file",
-                  "name": "CS01-COMPUTER_SYSTEM-CNOTES.md",
-                  "path": "AI-NOTES/COMPUTER-SCIENCE/CS01-COMPUTER_SYSTEM/CS01-COMPUTER_SYSTEM-CNOTES.md",
-                  "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
-                  "mime": "text/markdown"
                 }
               ]
             },
@@ -48,6 +41,13 @@
               "type": "folder",
               "name": "CS02-ENCODING_SCHEMES_AND_NUMBER_SYSTEM",
               "children": [
+                {
+                  "type": "file",
+                  "name": "CS02-ENCODING_SCHEMES_AND_NUMBER_SYSTEM-CNOTES.md",
+                  "path": "AI-NOTES/COMPUTER-SCIENCE/CS02-ENCODING_SCHEMES_AND_NUMBER_SYSTEM/CS02-ENCODING_SCHEMES_AND_NUMBER_SYSTEM-CNOTES.md",
+                  "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+                  "mime": "text/markdown"
+                },
                 {
                   "type": "file",
                   "name": "CS02-ENCODING_SCHEMES_AND_NUMBER_SYSTEM-GLOSSARY.md",
@@ -61,20 +61,6 @@
                   "path": "AI-NOTES/COMPUTER-SCIENCE/CS02-ENCODING_SCHEMES_AND_NUMBER_SYSTEM/CS02-ENCODING_SCHEMES_AND_NUMBER_SYSTEM-NOTES.md",
                   "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
                   "mime": "text/markdown"
-                },
-                {
-                  "type": "file",
-                  "name": "CS02-ENCODING_SCHEMES_AND_NUMBER_SYSTEM-PQs.md",
-                  "path": "AI-NOTES/COMPUTER-SCIENCE/CS02-ENCODING_SCHEMES_AND_NUMBER_SYSTEM/CS02-ENCODING_SCHEMES_AND_NUMBER_SYSTEM-PQs.md",
-                  "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
-                  "mime": "text/markdown"
-                },
-                {
-                  "type": "file",
-                  "name": "CS02-ENCODING_SCHEMES_AND_NUMBER_SYSTEM-CNOTES.md",
-                  "path": "AI-NOTES/COMPUTER-SCIENCE/CS02-ENCODING_SCHEMES_AND_NUMBER_SYSTEM/CS02-ENCODING_SCHEMES_AND_NUMBER_SYSTEM-CNOTES.md",
-                  "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
-                  "mime": "text/markdown"
                 }
               ]
             },
@@ -82,6 +68,13 @@
               "type": "folder",
               "name": "CS03-EMERGING_TRENDS",
               "children": [
+                {
+                  "type": "file",
+                  "name": "CS03-EMERGING_TRENDS-CNOTES.md",
+                  "path": "AI-NOTES/COMPUTER-SCIENCE/CS03-EMERGING_TRENDS/CS03-EMERGING_TRENDS-CNOTES.md",
+                  "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+                  "mime": "text/markdown"
+                },
                 {
                   "type": "file",
                   "name": "CS03-EMERGING_TRENDS-GLOSSARY.md",
@@ -95,20 +88,6 @@
                   "path": "AI-NOTES/COMPUTER-SCIENCE/CS03-EMERGING_TRENDS/CS03-EMERGING_TRENDS-NOTES.md",
                   "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
                   "mime": "text/markdown"
-                },
-                {
-                  "type": "file",
-                  "name": "CS03-EMERGING_TRENDS-PQs.md",
-                  "path": "AI-NOTES/COMPUTER-SCIENCE/CS03-EMERGING_TRENDS/CS03-EMERGING_TRENDS-PQs.md",
-                  "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
-                  "mime": "text/markdown"
-                },
-                {
-                  "type": "file",
-                  "name": "CS03-EMERGING_TRENDS-CNOTES.md",
-                  "path": "AI-NOTES/COMPUTER-SCIENCE/CS03-EMERGING_TRENDS/CS03-EMERGING_TRENDS-CNOTES.md",
-                  "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
-                  "mime": "text/markdown"
                 }
               ]
             },
@@ -116,6 +95,13 @@
               "type": "folder",
               "name": "CS04-PROBLEM_SOLVING",
               "children": [
+                {
+                  "type": "file",
+                  "name": "CS04-PROBLEM_SOLVING-CNOTES.md",
+                  "path": "AI-NOTES/COMPUTER-SCIENCE/CS04-PROBLEM_SOLVING/CS04-PROBLEM_SOLVING-CNOTES.md",
+                  "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+                  "mime": "text/markdown"
+                },
                 {
                   "type": "file",
                   "name": "CS04-PROBLEM_SOLVING-GLOSSARY.md",
@@ -129,20 +115,6 @@
                   "path": "AI-NOTES/COMPUTER-SCIENCE/CS04-PROBLEM_SOLVING/CS04-PROBLEM_SOLVING-NOTES.md",
                   "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
                   "mime": "text/markdown"
-                },
-                {
-                  "type": "file",
-                  "name": "CS04-PROBLEM_SOLVING-PQs.md",
-                  "path": "AI-NOTES/COMPUTER-SCIENCE/CS04-PROBLEM_SOLVING/CS04-PROBLEM_SOLVING-PQs.md",
-                  "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
-                  "mime": "text/markdown"
-                },
-                {
-                  "type": "file",
-                  "name": "CS04-PROBLEM_SOLVING-CNOTES.md",
-                  "path": "AI-NOTES/COMPUTER-SCIENCE/CS04-PROBLEM_SOLVING/CS04-PROBLEM_SOLVING-CNOTES.md",
-                  "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
-                  "mime": "text/markdown"
                 }
               ]
             },
@@ -150,6 +122,13 @@
               "type": "folder",
               "name": "CS05-GETTING_STARTED_WITH_PYTHON",
               "children": [
+                {
+                  "type": "file",
+                  "name": "CS05-GETTING_STARTED_WITH_PYTHON-CNOTES.md",
+                  "path": "AI-NOTES/COMPUTER-SCIENCE/CS05-GETTING_STARTED_WITH_PYTHON/CS05-GETTING_STARTED_WITH_PYTHON-CNOTES.md",
+                  "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+                  "mime": "text/markdown"
+                },
                 {
                   "type": "file",
                   "name": "CS05-GETTING_STARTED_WITH_PYTHON-GLOSSARY.md",
@@ -163,20 +142,6 @@
                   "path": "AI-NOTES/COMPUTER-SCIENCE/CS05-GETTING_STARTED_WITH_PYTHON/CS05-GETTING_STARTED_WITH_PYTHON-NOTES.md",
                   "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
                   "mime": "text/markdown"
-                },
-                {
-                  "type": "file",
-                  "name": "CS05-GETTING_STARTED_WITH_PYTHON-PQs.md",
-                  "path": "AI-NOTES/COMPUTER-SCIENCE/CS05-GETTING_STARTED_WITH_PYTHON/CS05-GETTING_STARTED_WITH_PYTHON-PQs.md",
-                  "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
-                  "mime": "text/markdown"
-                },
-                {
-                  "type": "file",
-                  "name": "CS05-GETTING_STARTED_WITH_PYTHON-CNOTES.md",
-                  "path": "AI-NOTES/COMPUTER-SCIENCE/CS05-GETTING_STARTED_WITH_PYTHON/CS05-GETTING_STARTED_WITH_PYTHON-CNOTES.md",
-                  "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
-                  "mime": "text/markdown"
                 }
               ]
             },
@@ -184,6 +149,13 @@
               "type": "folder",
               "name": "CS06-FLOW_OF_CONTROL",
               "children": [
+                {
+                  "type": "file",
+                  "name": "CS06-FLOW_OF_CONTROL-CNOTES.md",
+                  "path": "AI-NOTES/COMPUTER-SCIENCE/CS06-FLOW_OF_CONTROL/CS06-FLOW_OF_CONTROL-CNOTES.md",
+                  "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+                  "mime": "text/markdown"
+                },
                 {
                   "type": "file",
                   "name": "CS06-FLOW_OF_CONTROL-GLOSSARY.md",
@@ -197,20 +169,6 @@
                   "path": "AI-NOTES/COMPUTER-SCIENCE/CS06-FLOW_OF_CONTROL/CS06-FLOW_OF_CONTROL-NOTES.md",
                   "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
                   "mime": "text/markdown"
-                },
-                {
-                  "type": "file",
-                  "name": "CS06-FLOW_OF_CONTROL-PQs.md",
-                  "path": "AI-NOTES/COMPUTER-SCIENCE/CS06-FLOW_OF_CONTROL/CS06-FLOW_OF_CONTROL-PQs.md",
-                  "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
-                  "mime": "text/markdown"
-                },
-                {
-                  "type": "file",
-                  "name": "CS06-FLOW_OF_CONTROL-CNOTES.md",
-                  "path": "AI-NOTES/COMPUTER-SCIENCE/CS06-FLOW_OF_CONTROL/CS06-FLOW_OF_CONTROL-CNOTES.md",
-                  "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
-                  "mime": "text/markdown"
                 }
               ]
             },
@@ -218,6 +176,13 @@
               "type": "folder",
               "name": "CS07-FUNCTIONS",
               "children": [
+                {
+                  "type": "file",
+                  "name": "CS07-FUNCTIONS-CNOTES.md",
+                  "path": "AI-NOTES/COMPUTER-SCIENCE/CS07-FUNCTIONS/CS07-FUNCTIONS-CNOTES.md",
+                  "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+                  "mime": "text/markdown"
+                },
                 {
                   "type": "file",
                   "name": "CS07-FUNCTIONS-GLOSSARY.md",
@@ -231,20 +196,6 @@
                   "path": "AI-NOTES/COMPUTER-SCIENCE/CS07-FUNCTIONS/CS07-FUNCTIONS-NOTES.md",
                   "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
                   "mime": "text/markdown"
-                },
-                {
-                  "type": "file",
-                  "name": "CS07-FUNCTIONS-PQs.md",
-                  "path": "AI-NOTES/COMPUTER-SCIENCE/CS07-FUNCTIONS/CS07-FUNCTIONS-PQs.md",
-                  "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
-                  "mime": "text/markdown"
-                },
-                {
-                  "type": "file",
-                  "name": "CS07-FUNCTIONS-CNOTES.md",
-                  "path": "AI-NOTES/COMPUTER-SCIENCE/CS07-FUNCTIONS/CS07-FUNCTIONS-CNOTES.md",
-                  "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
-                  "mime": "text/markdown"
                 }
               ]
             },
@@ -252,6 +203,13 @@
               "type": "folder",
               "name": "CS08-STRINGS",
               "children": [
+                {
+                  "type": "file",
+                  "name": "CS08-STRINGS-CNOTES.md",
+                  "path": "AI-NOTES/COMPUTER-SCIENCE/CS08-STRINGS/CS08-STRINGS-CNOTES.md",
+                  "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+                  "mime": "text/markdown"
+                },
                 {
                   "type": "file",
                   "name": "CS08-STRINGS-GLOSSARY.md",
@@ -265,20 +223,6 @@
                   "path": "AI-NOTES/COMPUTER-SCIENCE/CS08-STRINGS/CS08-STRINGS-NOTES.md",
                   "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
                   "mime": "text/markdown"
-                },
-                {
-                  "type": "file",
-                  "name": "CS08-STRINGS-PQs.md",
-                  "path": "AI-NOTES/COMPUTER-SCIENCE/CS08-STRINGS/CS08-STRINGS-PQs.md",
-                  "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
-                  "mime": "text/markdown"
-                },
-                {
-                  "type": "file",
-                  "name": "CS08-STRINGS-CNOTES.md",
-                  "path": "AI-NOTES/COMPUTER-SCIENCE/CS08-STRINGS/CS08-STRINGS-CNOTES.md",
-                  "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
-                  "mime": "text/markdown"
                 }
               ]
             },
@@ -286,6 +230,13 @@
               "type": "folder",
               "name": "CS09-LISTS",
               "children": [
+                {
+                  "type": "file",
+                  "name": "CS09-LISTS-CNOTES.md",
+                  "path": "AI-NOTES/COMPUTER-SCIENCE/CS09-LISTS/CS09-LISTS-CNOTES.md",
+                  "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+                  "mime": "text/markdown"
+                },
                 {
                   "type": "file",
                   "name": "CS09-LISTS-GLOSSARY.md",
@@ -299,20 +250,6 @@
                   "path": "AI-NOTES/COMPUTER-SCIENCE/CS09-LISTS/CS09-LISTS-NOTES.md",
                   "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
                   "mime": "text/markdown"
-                },
-                {
-                  "type": "file",
-                  "name": "CS09-LISTS-PQs.md",
-                  "path": "AI-NOTES/COMPUTER-SCIENCE/CS09-LISTS/CS09-LISTS-PQs.md",
-                  "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
-                  "mime": "text/markdown"
-                },
-                {
-                  "type": "file",
-                  "name": "CS09-LISTS-CNOTES.md",
-                  "path": "AI-NOTES/COMPUTER-SCIENCE/CS09-LISTS/CS09-LISTS-CNOTES.md",
-                  "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
-                  "mime": "text/markdown"
                 }
               ]
             },
@@ -320,6 +257,13 @@
               "type": "folder",
               "name": "CS10-TUPLES_AND_DICTIONARIES",
               "children": [
+                {
+                  "type": "file",
+                  "name": "CS10-TUPLES_AND_DICTIONARIES-CNOTES.md",
+                  "path": "AI-NOTES/COMPUTER-SCIENCE/CS10-TUPLES_AND_DICTIONARIES/CS10-TUPLES_AND_DICTIONARIES-CNOTES.md",
+                  "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+                  "mime": "text/markdown"
+                },
                 {
                   "type": "file",
                   "name": "CS10-TUPLES_AND_DICTIONARIES-GLOSSARY.md",
@@ -333,20 +277,6 @@
                   "path": "AI-NOTES/COMPUTER-SCIENCE/CS10-TUPLES_AND_DICTIONARIES/CS10-TUPLES_AND_DICTIONARIES-NOTES.md",
                   "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
                   "mime": "text/markdown"
-                },
-                {
-                  "type": "file",
-                  "name": "CS10-TUPLES_AND_DICTIONARIES-PQs.md",
-                  "path": "AI-NOTES/COMPUTER-SCIENCE/CS10-TUPLES_AND_DICTIONARIES/CS10-TUPLES_AND_DICTIONARIES-PQs.md",
-                  "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
-                  "mime": "text/markdown"
-                },
-                {
-                  "type": "file",
-                  "name": "CS10-TUPLES_AND_DICTIONARIES-CNOTES.md",
-                  "path": "AI-NOTES/COMPUTER-SCIENCE/CS10-TUPLES_AND_DICTIONARIES/CS10-TUPLES_AND_DICTIONARIES-CNOTES.md",
-                  "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
-                  "mime": "text/markdown"
                 }
               ]
             },
@@ -354,6 +284,13 @@
               "type": "folder",
               "name": "CS11-SOCIETAL_IMPACTS",
               "children": [
+                {
+                  "type": "file",
+                  "name": "CS11-SOCIETAL_IMPACTS-CNOTES.md",
+                  "path": "AI-NOTES/COMPUTER-SCIENCE/CS11-SOCIETAL_IMPACTS/CS11-SOCIETAL_IMPACTS-CNOTES.md",
+                  "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+                  "mime": "text/markdown"
+                },
                 {
                   "type": "file",
                   "name": "CS11-SOCIETAL_IMPACTS-GLOSSARY.md",
@@ -365,20 +302,6 @@
                   "type": "file",
                   "name": "CS11-SOCIETAL_IMPACTS-NOTES.md",
                   "path": "AI-NOTES/COMPUTER-SCIENCE/CS11-SOCIETAL_IMPACTS/CS11-SOCIETAL_IMPACTS-NOTES.md",
-                  "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
-                  "mime": "text/markdown"
-                },
-                {
-                  "type": "file",
-                  "name": "CS11-SOCIETAL_IMPACTS-PQs.md",
-                  "path": "AI-NOTES/COMPUTER-SCIENCE/CS11-SOCIETAL_IMPACTS/CS11-SOCIETAL_IMPACTS-PQs.md",
-                  "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
-                  "mime": "text/markdown"
-                },
-                {
-                  "type": "file",
-                  "name": "CS11-SOCIETAL_IMPACTS-CNOTES.md",
-                  "path": "AI-NOTES/COMPUTER-SCIENCE/CS11-SOCIETAL_IMPACTS/CS11-SOCIETAL_IMPACTS-CNOTES.md",
                   "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
                   "mime": "text/markdown"
                 }
@@ -396,6 +319,13 @@
               "children": [
                 {
                   "type": "file",
+                  "name": "MATHEMATICS01-SETS-CNOTES.md",
+                  "path": "AI-NOTES/MATHEMATICS/MATHEMATICS01-SETS/MATHEMATICS01-SETS-CNOTES.md",
+                  "sha": "389bb578ab4a6e85313175c705ab51055d6eaebd",
+                  "mime": "text/markdown"
+                },
+                {
+                  "type": "file",
                   "name": "MATHEMATICS01-SETS-GLOSSARY.md",
                   "path": "AI-NOTES/MATHEMATICS/MATHEMATICS01-SETS/MATHEMATICS01-SETS-GLOSSARY.md",
                   "sha": "22186f5f5fa6e0736b33f6be2ffae4b4a1fda6a3",
@@ -407,20 +337,6 @@
                   "path": "AI-NOTES/MATHEMATICS/MATHEMATICS01-SETS/MATHEMATICS01-SETS-NOTES.md",
                   "sha": "e45b99a487c81e413e0bd3ff101186e5c050c055",
                   "mime": "text/markdown"
-                },
-                {
-                  "type": "file",
-                  "name": "MATHEMATICS01-SETS-PQs.md",
-                  "path": "AI-NOTES/MATHEMATICS/MATHEMATICS01-SETS/MATHEMATICS01-SETS-PQs.md",
-                  "sha": "340c445ad59125ee74e3d52dbfad08ebca9287c7",
-                  "mime": "text/markdown"
-                },
-                {
-                  "type": "file",
-                  "name": "MATHEMATICS01-SETS-CNOTES.md",
-                  "path": "AI-NOTES/MATHEMATICS/MATHEMATICS01-SETS/MATHEMATICS01-SETS-CNOTES.md",
-                  "sha": "389bb578ab4a6e85313175c705ab51055d6eaebd",
-                  "mime": "text/markdown"
                 }
               ]
             },
@@ -428,6 +344,13 @@
               "type": "folder",
               "name": "MATHEMATICS02-RELATIONS_AND_FUNCTIONS",
               "children": [
+                {
+                  "type": "file",
+                  "name": "MATHEMATICS02-RELATIONS_AND_FUNCTIONS-CNOTES.md",
+                  "path": "AI-NOTES/MATHEMATICS/MATHEMATICS02-RELATIONS_AND_FUNCTIONS/MATHEMATICS02-RELATIONS_AND_FUNCTIONS-CNOTES.md",
+                  "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+                  "mime": "text/markdown"
+                },
                 {
                   "type": "file",
                   "name": "MATHEMATICS02-RELATIONS_AND_FUNCTIONS-GLOSSARY.md",
@@ -441,20 +364,6 @@
                   "path": "AI-NOTES/MATHEMATICS/MATHEMATICS02-RELATIONS_AND_FUNCTIONS/MATHEMATICS02-RELATIONS_AND_FUNCTIONS-NOTES.md",
                   "sha": "7153a448cd266cf36e71b85e64fd6a17c3f99ab8",
                   "mime": "text/markdown"
-                },
-                {
-                  "type": "file",
-                  "name": "MATHEMATICS02-RELATIONS_AND_FUNCTIONS-PQs.md",
-                  "path": "AI-NOTES/MATHEMATICS/MATHEMATICS02-RELATIONS_AND_FUNCTIONS/MATHEMATICS02-RELATIONS_AND_FUNCTIONS-PQs.md",
-                  "sha": "8db9c7930f2ecaae656486a7d94cff24cfed019e",
-                  "mime": "text/markdown"
-                },
-                {
-                  "type": "file",
-                  "name": "MATHEMATICS02-RELATIONS_AND_FUNCTIONS-CNOTES.md",
-                  "path": "AI-NOTES/MATHEMATICS/MATHEMATICS02-RELATIONS_AND_FUNCTIONS/MATHEMATICS02-RELATIONS_AND_FUNCTIONS-CNOTES.md",
-                  "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
-                  "mime": "text/markdown"
                 }
               ]
             },
@@ -462,6 +371,13 @@
               "type": "folder",
               "name": "MATHEMATICS03-TRIGONOMETRIC_FUNCTIONS",
               "children": [
+                {
+                  "type": "file",
+                  "name": "MATHEMATICS03-TRIGONOMETRIC_FUNCTIONS-CNOTES.md",
+                  "path": "AI-NOTES/MATHEMATICS/MATHEMATICS03-TRIGONOMETRIC_FUNCTIONS/MATHEMATICS03-TRIGONOMETRIC_FUNCTIONS-CNOTES.md",
+                  "sha": "77ae03f9692a9a942d0d7f7b3f15dc06bd5764dd",
+                  "mime": "text/markdown"
+                },
                 {
                   "type": "file",
                   "name": "MATHEMATICS03-TRIGONOMETRIC_FUNCTIONS-GLOSSARY.md",
@@ -475,20 +391,6 @@
                   "path": "AI-NOTES/MATHEMATICS/MATHEMATICS03-TRIGONOMETRIC_FUNCTIONS/MATHEMATICS03-TRIGONOMETRIC_FUNCTIONS-NOTES.md",
                   "sha": "5a945d4be98563b6288dde5f3e4895047a51d1fe",
                   "mime": "text/markdown"
-                },
-                {
-                  "type": "file",
-                  "name": "MATHEMATICS03-TRIGONOMETRIC_FUNCTIONS-PQs.md",
-                  "path": "AI-NOTES/MATHEMATICS/MATHEMATICS03-TRIGONOMETRIC_FUNCTIONS/MATHEMATICS03-TRIGONOMETRIC_FUNCTIONS-PQs.md",
-                  "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
-                  "mime": "text/markdown"
-                },
-                {
-                  "type": "file",
-                  "name": "MATHEMATICS03-TRIGONOMETRIC_FUNCTIONS-CNOTES.md",
-                  "path": "AI-NOTES/MATHEMATICS/MATHEMATICS03-TRIGONOMETRIC_FUNCTIONS/MATHEMATICS03-TRIGONOMETRIC_FUNCTIONS-CNOTES.md",
-                  "sha": "77ae03f9692a9a942d0d7f7b3f15dc06bd5764dd",
-                  "mime": "text/markdown"
                 }
               ]
             },
@@ -496,6 +398,13 @@
               "type": "folder",
               "name": "MATHEMATICS04-COMPLEX_NUMBERS_AND_QUADRATIC_EQUATIONS",
               "children": [
+                {
+                  "type": "file",
+                  "name": "MATHEMATICS04-COMPLEX_NUMBERS_AND_QUADRATIC_EQUATIONS-CNOTES.md",
+                  "path": "AI-NOTES/MATHEMATICS/MATHEMATICS04-COMPLEX_NUMBERS_AND_QUADRATIC_EQUATIONS/MATHEMATICS04-COMPLEX_NUMBERS_AND_QUADRATIC_EQUATIONS-CNOTES.md",
+                  "sha": "0413fa6cc71125c41a34d3ee481f15c36e940102",
+                  "mime": "text/markdown"
+                },
                 {
                   "type": "file",
                   "name": "MATHEMATICS04-COMPLEX_NUMBERS_AND_QUADRATIC_EQUATIONS-GLOSSARY.md",
@@ -509,20 +418,6 @@
                   "path": "AI-NOTES/MATHEMATICS/MATHEMATICS04-COMPLEX_NUMBERS_AND_QUADRATIC_EQUATIONS/MATHEMATICS04-COMPLEX_NUMBERS_AND_QUADRATIC_EQUATIONS-NOTES.md",
                   "sha": "1a021f91a06add3fe2b608423ae3362c249e89a4",
                   "mime": "text/markdown"
-                },
-                {
-                  "type": "file",
-                  "name": "MATHEMATICS04-COMPLEX_NUMBERS_AND_QUADRATIC_EQUATIONS-PQs.md",
-                  "path": "AI-NOTES/MATHEMATICS/MATHEMATICS04-COMPLEX_NUMBERS_AND_QUADRATIC_EQUATIONS/MATHEMATICS04-COMPLEX_NUMBERS_AND_QUADRATIC_EQUATIONS-PQs.md",
-                  "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
-                  "mime": "text/markdown"
-                },
-                {
-                  "type": "file",
-                  "name": "MATHEMATICS04-COMPLEX_NUMBERS_AND_QUADRATIC_EQUATIONS-CNOTES.md",
-                  "path": "AI-NOTES/MATHEMATICS/MATHEMATICS04-COMPLEX_NUMBERS_AND_QUADRATIC_EQUATIONS/MATHEMATICS04-COMPLEX_NUMBERS_AND_QUADRATIC_EQUATIONS-CNOTES.md",
-                  "sha": "0413fa6cc71125c41a34d3ee481f15c36e940102",
-                  "mime": "text/markdown"
                 }
               ]
             },
@@ -530,6 +425,13 @@
               "type": "folder",
               "name": "MATHEMATICS05-LINEAR_INEQUALITIES",
               "children": [
+                {
+                  "type": "file",
+                  "name": "MATHEMATICS05-LINEAR_INEQUALITIES-CNOTES.md",
+                  "path": "AI-NOTES/MATHEMATICS/MATHEMATICS05-LINEAR_INEQUALITIES/MATHEMATICS05-LINEAR_INEQUALITIES-CNOTES.md",
+                  "sha": "30d95364b6f550ed570a74132a305248913f2e85",
+                  "mime": "text/markdown"
+                },
                 {
                   "type": "file",
                   "name": "MATHEMATICS05-LINEAR_INEQUALITIES-GLOSSARY.md",
@@ -543,20 +445,6 @@
                   "path": "AI-NOTES/MATHEMATICS/MATHEMATICS05-LINEAR_INEQUALITIES/MATHEMATICS05-LINEAR_INEQUALITIES-NOTES.md",
                   "sha": "e71c440c7c8e4a976b1c43a9c5eafac4f4c0921f",
                   "mime": "text/markdown"
-                },
-                {
-                  "type": "file",
-                  "name": "MATHEMATICS05-LINEAR_INEQUALITIES-PQs.md",
-                  "path": "AI-NOTES/MATHEMATICS/MATHEMATICS05-LINEAR_INEQUALITIES/MATHEMATICS05-LINEAR_INEQUALITIES-PQs.md",
-                  "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
-                  "mime": "text/markdown"
-                },
-                {
-                  "type": "file",
-                  "name": "MATHEMATICS05-LINEAR_INEQUALITIES-CNOTES.md",
-                  "path": "AI-NOTES/MATHEMATICS/MATHEMATICS05-LINEAR_INEQUALITIES/MATHEMATICS05-LINEAR_INEQUALITIES-CNOTES.md",
-                  "sha": "30d95364b6f550ed570a74132a305248913f2e85",
-                  "mime": "text/markdown"
                 }
               ]
             },
@@ -564,6 +452,13 @@
               "type": "folder",
               "name": "MATHEMATICS06-PERMUTATIONS_AND_COMBINATIONS",
               "children": [
+                {
+                  "type": "file",
+                  "name": "MATHEMATICS06-PERMUTATIONS_AND_COMBINATIONS-CNOTES.md",
+                  "path": "AI-NOTES/MATHEMATICS/MATHEMATICS06-PERMUTATIONS_AND_COMBINATIONS/MATHEMATICS06-PERMUTATIONS_AND_COMBINATIONS-CNOTES.md",
+                  "sha": "da9e3545bc690e2f10f8b8c7ee95c74339b9557d",
+                  "mime": "text/markdown"
+                },
                 {
                   "type": "file",
                   "name": "MATHEMATICS06-PERMUTATIONS_AND_COMBINATIONS-GLOSSARY.md",
@@ -577,20 +472,6 @@
                   "path": "AI-NOTES/MATHEMATICS/MATHEMATICS06-PERMUTATIONS_AND_COMBINATIONS/MATHEMATICS06-PERMUTATIONS_AND_COMBINATIONS-NOTES.md",
                   "sha": "1592d6beeb03a955084ecc04adaffc02c5d5364b",
                   "mime": "text/markdown"
-                },
-                {
-                  "type": "file",
-                  "name": "MATHEMATICS06-PERMUTATIONS_AND_COMBINATIONS-PQs.md",
-                  "path": "AI-NOTES/MATHEMATICS/MATHEMATICS06-PERMUTATIONS_AND_COMBINATIONS/MATHEMATICS06-PERMUTATIONS_AND_COMBINATIONS-PQs.md",
-                  "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
-                  "mime": "text/markdown"
-                },
-                {
-                  "type": "file",
-                  "name": "MATHEMATICS06-PERMUTATIONS_AND_COMBINATIONS-CNOTES.md",
-                  "path": "AI-NOTES/MATHEMATICS/MATHEMATICS06-PERMUTATIONS_AND_COMBINATIONS/MATHEMATICS06-PERMUTATIONS_AND_COMBINATIONS-CNOTES.md",
-                  "sha": "da9e3545bc690e2f10f8b8c7ee95c74339b9557d",
-                  "mime": "text/markdown"
                 }
               ]
             },
@@ -598,6 +479,13 @@
               "type": "folder",
               "name": "MATHEMATICS07-BINOMIAL_THEOREM",
               "children": [
+                {
+                  "type": "file",
+                  "name": "MATHEMATICS07-BINOMIAL_THEOREM-CNOTES.md",
+                  "path": "AI-NOTES/MATHEMATICS/MATHEMATICS07-BINOMIAL_THEOREM/MATHEMATICS07-BINOMIAL_THEOREM-CNOTES.md",
+                  "sha": "8973e05b10d70dac141c5fcbc47d9f7091291b82",
+                  "mime": "text/markdown"
+                },
                 {
                   "type": "file",
                   "name": "MATHEMATICS07-BINOMIAL_THEOREM-GLOSSARY.md",
@@ -611,20 +499,6 @@
                   "path": "AI-NOTES/MATHEMATICS/MATHEMATICS07-BINOMIAL_THEOREM/MATHEMATICS07-BINOMIAL_THEOREM-NOTES.md",
                   "sha": "d3c090e93a71248541b062096ee7db87d4332649",
                   "mime": "text/markdown"
-                },
-                {
-                  "type": "file",
-                  "name": "MATHEMATICS07-BINOMIAL_THEOREM-PQs.md",
-                  "path": "AI-NOTES/MATHEMATICS/MATHEMATICS07-BINOMIAL_THEOREM/MATHEMATICS07-BINOMIAL_THEOREM-PQs.md",
-                  "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
-                  "mime": "text/markdown"
-                },
-                {
-                  "type": "file",
-                  "name": "MATHEMATICS07-BINOMIAL_THEOREM-CNOTES.md",
-                  "path": "AI-NOTES/MATHEMATICS/MATHEMATICS07-BINOMIAL_THEOREM/MATHEMATICS07-BINOMIAL_THEOREM-CNOTES.md",
-                  "sha": "8973e05b10d70dac141c5fcbc47d9f7091291b82",
-                  "mime": "text/markdown"
                 }
               ]
             },
@@ -632,6 +506,13 @@
               "type": "folder",
               "name": "MATHEMATICS08-SEQUENCES_AND_SERIES",
               "children": [
+                {
+                  "type": "file",
+                  "name": "MATHEMATICS08-SEQUENCES_AND_SERIES-CNOTES.md",
+                  "path": "AI-NOTES/MATHEMATICS/MATHEMATICS08-SEQUENCES_AND_SERIES/MATHEMATICS08-SEQUENCES_AND_SERIES-CNOTES.md",
+                  "sha": "08417ae877bfcb4048e942449dd9f0b946904475",
+                  "mime": "text/markdown"
+                },
                 {
                   "type": "file",
                   "name": "MATHEMATICS08-SEQUENCES_AND_SERIES-GLOSSARY.md",
@@ -645,20 +526,6 @@
                   "path": "AI-NOTES/MATHEMATICS/MATHEMATICS08-SEQUENCES_AND_SERIES/MATHEMATICS08-SEQUENCES_AND_SERIES-NOTES.md",
                   "sha": "44af37e4ec6d89a32607bb1986f64556201e5323",
                   "mime": "text/markdown"
-                },
-                {
-                  "type": "file",
-                  "name": "MATHEMATICS08-SEQUENCES_AND_SERIES-PQs.md",
-                  "path": "AI-NOTES/MATHEMATICS/MATHEMATICS08-SEQUENCES_AND_SERIES/MATHEMATICS08-SEQUENCES_AND_SERIES-PQs.md",
-                  "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
-                  "mime": "text/markdown"
-                },
-                {
-                  "type": "file",
-                  "name": "MATHEMATICS08-SEQUENCES_AND_SERIES-CNOTES.md",
-                  "path": "AI-NOTES/MATHEMATICS/MATHEMATICS08-SEQUENCES_AND_SERIES/MATHEMATICS08-SEQUENCES_AND_SERIES-CNOTES.md",
-                  "sha": "08417ae877bfcb4048e942449dd9f0b946904475",
-                  "mime": "text/markdown"
                 }
               ]
             },
@@ -666,6 +533,13 @@
               "type": "folder",
               "name": "MATHEMATICS09-STRAIGHT_LINES",
               "children": [
+                {
+                  "type": "file",
+                  "name": "MATHEMATICS09-STRAIGHT_LINES-CNOTES.md",
+                  "path": "AI-NOTES/MATHEMATICS/MATHEMATICS09-STRAIGHT_LINES/MATHEMATICS09-STRAIGHT_LINES-CNOTES.md",
+                  "sha": "befd7922234460001edb07cd91e75978ba499162",
+                  "mime": "text/markdown"
+                },
                 {
                   "type": "file",
                   "name": "MATHEMATICS09-STRAIGHT_LINES-GLOSSARY.md",
@@ -679,20 +553,6 @@
                   "path": "AI-NOTES/MATHEMATICS/MATHEMATICS09-STRAIGHT_LINES/MATHEMATICS09-STRAIGHT_LINES-NOTES.md",
                   "sha": "571227485db655cf5a6a88281b24df069891c0f9",
                   "mime": "text/markdown"
-                },
-                {
-                  "type": "file",
-                  "name": "MATHEMATICS09-STRAIGHT_LINES-PQs.md",
-                  "path": "AI-NOTES/MATHEMATICS/MATHEMATICS09-STRAIGHT_LINES/MATHEMATICS09-STRAIGHT_LINES-PQs.md",
-                  "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
-                  "mime": "text/markdown"
-                },
-                {
-                  "type": "file",
-                  "name": "MATHEMATICS09-STRAIGHT_LINES-CNOTES.md",
-                  "path": "AI-NOTES/MATHEMATICS/MATHEMATICS09-STRAIGHT_LINES/MATHEMATICS09-STRAIGHT_LINES-CNOTES.md",
-                  "sha": "befd7922234460001edb07cd91e75978ba499162",
-                  "mime": "text/markdown"
                 }
               ]
             },
@@ -700,6 +560,13 @@
               "type": "folder",
               "name": "MATHEMATICS10-CONIC_SECTIONS",
               "children": [
+                {
+                  "type": "file",
+                  "name": "MATHEMATICS10-CONIC_SECTIONS-CNOTES.md",
+                  "path": "AI-NOTES/MATHEMATICS/MATHEMATICS10-CONIC_SECTIONS/MATHEMATICS10-CONIC_SECTIONS-CNOTES.md",
+                  "sha": "d5e2086abcc20352fbf8f1c863637c058269b688",
+                  "mime": "text/markdown"
+                },
                 {
                   "type": "file",
                   "name": "MATHEMATICS10-CONIC_SECTIONS-GLOSSARY.md",
@@ -713,20 +580,6 @@
                   "path": "AI-NOTES/MATHEMATICS/MATHEMATICS10-CONIC_SECTIONS/MATHEMATICS10-CONIC_SECTIONS-NOTES.md",
                   "sha": "71b3be01475dd6ffcbc765ae93e9ab38ee740f2b",
                   "mime": "text/markdown"
-                },
-                {
-                  "type": "file",
-                  "name": "MATHEMATICS10-CONIC_SECTIONS-PQs.md",
-                  "path": "AI-NOTES/MATHEMATICS/MATHEMATICS10-CONIC_SECTIONS/MATHEMATICS10-CONIC_SECTIONS-PQs.md",
-                  "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
-                  "mime": "text/markdown"
-                },
-                {
-                  "type": "file",
-                  "name": "MATHEMATICS10-CONIC_SECTIONS-CNOTES.md",
-                  "path": "AI-NOTES/MATHEMATICS/MATHEMATICS10-CONIC_SECTIONS/MATHEMATICS10-CONIC_SECTIONS-CNOTES.md",
-                  "sha": "d5e2086abcc20352fbf8f1c863637c058269b688",
-                  "mime": "text/markdown"
                 }
               ]
             },
@@ -734,6 +587,13 @@
               "type": "folder",
               "name": "MATHEMATICS11-INTRODUCTION_TO_3D_GEOMETRY",
               "children": [
+                {
+                  "type": "file",
+                  "name": "MATHEMATICS11-INTRODUCTION_TO_3D_GEOMETRY-CNOTES.md",
+                  "path": "AI-NOTES/MATHEMATICS/MATHEMATICS11-INTRODUCTION_TO_3D_GEOMETRY/MATHEMATICS11-INTRODUCTION_TO_3D_GEOMETRY-CNOTES.md",
+                  "sha": "1ad5b263fe7f8d170c3d8801da33bb2c9793188d",
+                  "mime": "text/markdown"
+                },
                 {
                   "type": "file",
                   "name": "MATHEMATICS11-INTRODUCTION_TO_3D_GEOMETRY-GLOSSARY.md",
@@ -747,20 +607,6 @@
                   "path": "AI-NOTES/MATHEMATICS/MATHEMATICS11-INTRODUCTION_TO_3D_GEOMETRY/MATHEMATICS11-INTRODUCTION_TO_3D_GEOMETRY-NOTES.md",
                   "sha": "fdadb37b390fec6174e4746cc12e0cd77ca3c23e",
                   "mime": "text/markdown"
-                },
-                {
-                  "type": "file",
-                  "name": "MATHEMATICS11-INTRODUCTION_TO_3D_GEOMETRY-PQs.md",
-                  "path": "AI-NOTES/MATHEMATICS/MATHEMATICS11-INTRODUCTION_TO_3D_GEOMETRY/MATHEMATICS11-INTRODUCTION_TO_3D_GEOMETRY-PQs.md",
-                  "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
-                  "mime": "text/markdown"
-                },
-                {
-                  "type": "file",
-                  "name": "MATHEMATICS11-INTRODUCTION_TO_3D_GEOMETRY-CNOTES.md",
-                  "path": "AI-NOTES/MATHEMATICS/MATHEMATICS11-INTRODUCTION_TO_3D_GEOMETRY/MATHEMATICS11-INTRODUCTION_TO_3D_GEOMETRY-CNOTES.md",
-                  "sha": "1ad5b263fe7f8d170c3d8801da33bb2c9793188d",
-                  "mime": "text/markdown"
                 }
               ]
             },
@@ -768,6 +614,13 @@
               "type": "folder",
               "name": "MATHEMATICS12-LIMITS_AND_DERIVATIVES",
               "children": [
+                {
+                  "type": "file",
+                  "name": "MATHEMATICS12-LIMITS_AND_DERIVATIVES-CNOTES.md",
+                  "path": "AI-NOTES/MATHEMATICS/MATHEMATICS12-LIMITS_AND_DERIVATIVES/MATHEMATICS12-LIMITS_AND_DERIVATIVES-CNOTES.md",
+                  "sha": "59674ffd7c7b08ce68251fda558b62185a4e3d1f",
+                  "mime": "text/markdown"
+                },
                 {
                   "type": "file",
                   "name": "MATHEMATICS12-LIMITS_AND_DERIVATIVES-GLOSSARY.md",
@@ -781,20 +634,6 @@
                   "path": "AI-NOTES/MATHEMATICS/MATHEMATICS12-LIMITS_AND_DERIVATIVES/MATHEMATICS12-LIMITS_AND_DERIVATIVES-NOTES.md",
                   "sha": "437ab497c86ae5f7dff7093d45d7372da9b657f0",
                   "mime": "text/markdown"
-                },
-                {
-                  "type": "file",
-                  "name": "MATHEMATICS12-LIMITS_AND_DERIVATIVES-PQs.md",
-                  "path": "AI-NOTES/MATHEMATICS/MATHEMATICS12-LIMITS_AND_DERIVATIVES/MATHEMATICS12-LIMITS_AND_DERIVATIVES-PQs.md",
-                  "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
-                  "mime": "text/markdown"
-                },
-                {
-                  "type": "file",
-                  "name": "MATHEMATICS12-LIMITS_AND_DERIVATIVES-CNOTES.md",
-                  "path": "AI-NOTES/MATHEMATICS/MATHEMATICS12-LIMITS_AND_DERIVATIVES/MATHEMATICS12-LIMITS_AND_DERIVATIVES-CNOTES.md",
-                  "sha": "59674ffd7c7b08ce68251fda558b62185a4e3d1f",
-                  "mime": "text/markdown"
                 }
               ]
             },
@@ -802,6 +641,13 @@
               "type": "folder",
               "name": "MATHEMATICS13-STATISTICS",
               "children": [
+                {
+                  "type": "file",
+                  "name": "MATHEMATICS13-STATISTICS-CNOTES.md",
+                  "path": "AI-NOTES/MATHEMATICS/MATHEMATICS13-STATISTICS/MATHEMATICS13-STATISTICS-CNOTES.md",
+                  "sha": "e96bbc270086f9a1ce90a294df53e1b1d5388df9",
+                  "mime": "text/markdown"
+                },
                 {
                   "type": "file",
                   "name": "MATHEMATICS13-STATISTICS-GLOSSARY.md",
@@ -815,20 +661,6 @@
                   "path": "AI-NOTES/MATHEMATICS/MATHEMATICS13-STATISTICS/MATHEMATICS13-STATISTICS-NOTES.md",
                   "sha": "e84b9470c3184db9511c26bd6a1e4cf466d4b86d",
                   "mime": "text/markdown"
-                },
-                {
-                  "type": "file",
-                  "name": "MATHEMATICS13-STATISTICS-PQs.md",
-                  "path": "AI-NOTES/MATHEMATICS/MATHEMATICS13-STATISTICS/MATHEMATICS13-STATISTICS-PQs.md",
-                  "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
-                  "mime": "text/markdown"
-                },
-                {
-                  "type": "file",
-                  "name": "MATHEMATICS13-STATISTICS-CNOTES.md",
-                  "path": "AI-NOTES/MATHEMATICS/MATHEMATICS13-STATISTICS/MATHEMATICS13-STATISTICS-CNOTES.md",
-                  "sha": "e96bbc270086f9a1ce90a294df53e1b1d5388df9",
-                  "mime": "text/markdown"
                 }
               ]
             },
@@ -836,6 +668,13 @@
               "type": "folder",
               "name": "MATHEMATICS14-PROBABILITY",
               "children": [
+                {
+                  "type": "file",
+                  "name": "MATHEMATICS14-PROBABILITY-CNOTES.md",
+                  "path": "AI-NOTES/MATHEMATICS/MATHEMATICS14-PROBABILITY/MATHEMATICS14-PROBABILITY-CNOTES.md",
+                  "sha": "64c7919a6a5b08e621ca49581b8a287a345ef552",
+                  "mime": "text/markdown"
+                },
                 {
                   "type": "file",
                   "name": "MATHEMATICS14-PROBABILITY-GLOSSARY.md",
@@ -849,20 +688,6 @@
                   "path": "AI-NOTES/MATHEMATICS/MATHEMATICS14-PROBABILITY/MATHEMATICS14-PROBABILITY-NOTES.md",
                   "sha": "4a287ea6a38834f33c88ac90ae2248fc7cc0e15a",
                   "mime": "text/markdown"
-                },
-                {
-                  "type": "file",
-                  "name": "MATHEMATICS14-PROBABILITY-PQs.md",
-                  "path": "AI-NOTES/MATHEMATICS/MATHEMATICS14-PROBABILITY/MATHEMATICS14-PROBABILITY-PQs.md",
-                  "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
-                  "mime": "text/markdown"
-                },
-                {
-                  "type": "file",
-                  "name": "MATHEMATICS14-PROBABILITY-CNOTES.md",
-                  "path": "AI-NOTES/MATHEMATICS/MATHEMATICS14-PROBABILITY/MATHEMATICS14-PROBABILITY-CNOTES.md",
-                  "sha": "64c7919a6a5b08e621ca49581b8a287a345ef552",
-                  "mime": "text/markdown"
                 }
               ]
             },
@@ -870,6 +695,13 @@
               "type": "folder",
               "name": "MATHEMATICSEX-MATHEMATICAL_INDUCTION",
               "children": [
+                {
+                  "type": "file",
+                  "name": "MATHEMATICSEX-MATHEMATICAL_INDUCTION-CNOTES.md",
+                  "path": "AI-NOTES/MATHEMATICS/MATHEMATICSEX-MATHEMATICAL_INDUCTION/MATHEMATICSEX-MATHEMATICAL_INDUCTION-CNOTES.md",
+                  "sha": "d7e102dec712958454debaa9a1e484bd4561f3ed",
+                  "mime": "text/markdown"
+                },
                 {
                   "type": "file",
                   "name": "MATHEMATICSEX-MATHEMATICAL_INDUCTION-GLOSSARY.md",
@@ -882,13 +714,6 @@
                   "name": "MATHEMATICSEX-MATHEMATICAL_INDUCTION-NOTES.md",
                   "path": "AI-NOTES/MATHEMATICS/MATHEMATICSEX-MATHEMATICAL_INDUCTION/MATHEMATICSEX-MATHEMATICAL_INDUCTION-NOTES.md",
                   "sha": "6233068280067ab5b56d4cd5c01b5950fac5f847",
-                  "mime": "text/markdown"
-                },
-                {
-                  "type": "file",
-                  "name": "MATHEMATICSEX-MATHEMATICAL_INDUCTION-CNOTES.md",
-                  "path": "AI-NOTES/MATHEMATICS/MATHEMATICSEX-MATHEMATICAL_INDUCTION/MATHEMATICSEX-MATHEMATICAL_INDUCTION-CNOTES.md",
-                  "sha": "d7e102dec712958454debaa9a1e484bd4561f3ed",
                   "mime": "text/markdown"
                 }
               ]
