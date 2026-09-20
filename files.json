@@ -719,11 +719,6 @@
               ]
             }
           ]
-        },
-        {
-          "type": "folder",
-          "name": "PHYSICAL-EDUCATION",
-          "children": []
         }
       ]
     },
@@ -813,11 +808,6 @@
               "mime": "application/pdf"
             }
           ]
-        },
-        {
-          "type": "folder",
-          "name": "ENGLISH",
-          "children": []
         },
         {
           "type": "folder",
@@ -1080,11 +1070,6 @@
               "mime": "application/pdf"
             }
           ]
-        },
-        {
-          "type": "folder",
-          "name": "PHYSICAL-EDUCATION",
-          "children": []
         }
       ]
     },
